@@ -40,7 +40,7 @@ readme文件要想在GitHub上显示图片需要在main branch下创建images文
 
 仓库地址：https://github.com/linjinzhuo/DataMining
 
-![](/images/image-20240425150454592.png)
+![](/images/20240428154157.png)
 
 ## 我想学习的计算机技能：
 
